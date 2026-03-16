@@ -1,0 +1,17 @@
+body{
+    font-family: Arial;
+    background-color: lightgray;
+    text-align: center;
+}
+
+h1{
+    color: blue;
+}
+
+h2{
+    color: black;
+}
+
+p{
+    font-size:18px;
+}
